@@ -1,5 +1,6 @@
 Proyecto 2: PageRank sobre la red de tráfico aéreo de la FAA
-Integrante: Nombre Apellido
+
+Integrante: Giosué Nobizelli
 
 El objetivo del proyecto es aplicar el algoritmo PageRank sobre una red real de tráfico aéreo de Estados Unidos obtenida desde KONECT, construyendo la Matriz de Google a partir de la matriz de hipervínculos de la red, calculando el vector de PageRank mediante iteración de potencias e interpretando los resultados en el contexto de las rutas preferentes de la FAA.
 
