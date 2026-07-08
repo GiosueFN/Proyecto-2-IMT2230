@@ -6,7 +6,7 @@ El objetivo del proyecto es aplicar el algoritmo PageRank sobre una red real de 
 
 Estructura del Repositorio
 
-* `Proyecto2_PageRank.ipynb`: Jupyter Notebook (desarrollado en Google Colab) que contiene todo el código del proyecto: carga de la red, análisis exploratorio, construcción de las matrices H, S y G, cálculo de PageRank mediante iteración de potencias, comparación con el grado de entrada y visualización del subgrafo de nodos más relevantes.
+* `NoteBook_Proyecto_2.ipynb`: Jupyter Notebook (desarrollado en Google Colab) que contiene todo el código del proyecto: carga de la red, análisis exploratorio, construcción de las matrices H, S y G, cálculo de PageRank mediante iteración de potencias, comparación con el grado de entrada y visualización del subgrafo de nodos más relevantes.
 * `Informe proyecto 2 algebra.pdf`: Informe que detalla la elección de la red, la construcción de la Matriz de Google, el cálculo e interpretación del PageRank y las conclusiones obtenidas.
 * `out.maayan-faa`: Dataset con la lista de aristas de la red de tráfico aéreo, descargado desde KONECT (http://konect.cc/networks/maayan-faa/).
 * `meta.maayan-faa`: Metadatos de la red, descargados desde KONECT.
